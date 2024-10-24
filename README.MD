@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
-<p align="center">I focus on backend development, and this is my personal GitHub profile with my archived older projects and current projects that I work on in my free time.</p>
+<p align="center">I focus on backend development, and this is my personal GitHub profile with my projects.</p>
 
  - 👨‍💻 All my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
