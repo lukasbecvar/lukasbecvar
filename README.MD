@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukáš Bečvář</h1>
 <p align="center">I focus on backend development, and this is my personal GitHub profile showcasing my projects.</p>
 
+ - 🡆 My main personal project [admin suite](https://github.com/lukasbecvar/admin-suite) and [as-docs](https://lukasbecvar.github.io/admin-suite/)
  - 👨‍💻 All my projects are available on [https://becvar.xyz/projects](https://becvar.xyz/projects)
  - 📫 How to reach me **lukas@becvar.xyz**
 
