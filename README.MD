@@ -20,14 +20,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-### Statistics
-<p align="center">
-  <a href="https://github.com/lukasbecvar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lukasbecvar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/lukasbecvar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lukasbecvar&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
